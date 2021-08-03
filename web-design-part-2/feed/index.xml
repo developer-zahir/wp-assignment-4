@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: ওয়েব ডিজাইন টিউটোরিয়াল সিরিজের ২য় পাঠ।ওয়েব ডিজাইন শিখে অনলাইন থেকে টাকা আয় করুন।	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Fri, 30 Jul 2021 18:21:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Raj Sharma		</title>
+		<link>./../index.html#comment-7</link>
+
+		<dc:creator><![CDATA[Raj Sharma]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 08:03:51 +0000</pubDate>
+		<guid isPermaLink="false">#comment-7</guid>
+
+					<description><![CDATA[এই মন্তব্যটি একটি ব্লগ প্রশাসক দ্বারা মুছে ফেলা হয়েছে।]]></description>
+			<content:encoded><![CDATA[<p>এই মন্তব্যটি একটি ব্লগ প্রশাসক দ্বারা মুছে ফেলা হয়েছে।</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
